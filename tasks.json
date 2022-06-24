@@ -1,0 +1,14 @@
+{
+
+ "1" : "{emoji} Please follow our twitter account [Twiiter](https://twitter.com/MetacarToken) And Retweet Pinned Post\n\nEnter Your Twitter Username (Example: https://twitter.com/username)",
+ "2" :  "Submit your Tomochain address , Do not send bep20 address!! :",
+ "3" : "Please send your retweet link",
+ "amount increase" : 200000000,
+ "decrease": 10,
+ "payamount": 10,
+ 
+   "Start Message/WelCome mesage" : "",
+  
+  "Decrease Amount" : 1
+
+}

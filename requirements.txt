@@ -1,0 +1,13 @@
+pyrogram
+TgCrypto
+Pillow
+telethon
+tweepy==4.0.0
+pandas
+openpyxl==1.8.6
+xlrd==1.2.0
+pymongo
+pymongo[srv]
+dnspython
+motor
+XlsxWriter
